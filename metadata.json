@@ -1,0 +1,36 @@
+{
+    "$schema": "https://go.kicad.org/pcm/schemas/v1",
+    "name": "RGen KiCAD Libraries",
+    "description": "User-friendly library package for beginners by RoboticGen",
+    "description_full": "RoboticGen KiCAD library pack is a collection of common electronic components libraries for the free and open-source KiCAD PCB design software. The goal of Circuit Breaker KiCAD Libraries is to provide a user-friendly library package  for beginners.",
+    "identifier": "com.github.RoboticGen.RGen-KiCAD-Libraries",
+    "type": "library",
+    "author": {
+        "name": "RoboticGen",
+        "contact": {
+            "web": "https://roboticgen.co"
+        }
+    },
+    "maintainer": {
+        "name": "RoboticGen",
+        "contact": {
+            "web": "https://roboticgen.co"
+        }
+    },
+    "license": "CC-BY-SA-4.0",
+    "resources": {
+        "GitHub": "https://github.com/RoboticGen/RGen_KiCAD_Libraries",
+        "YouTube": "https://www.youtube.com/@RoboticGen",
+        "Facebook": "https://www.facebook.com/RoboticGenInc"
+    },
+    "versions": [
+        {
+            "version": "0.4",
+            "status": "development",
+            "kicad_version": "7",
+            "download_size": 33405858,
+            "download_url": "https://github.com/RoboticGen/RGen_KiCAD_Libraries/releases/download/v0.4/RGen_KiCAD_V7_Libraries_v0.4.zip",
+            "install_size": 168410755
+        }
+    ]
+}
