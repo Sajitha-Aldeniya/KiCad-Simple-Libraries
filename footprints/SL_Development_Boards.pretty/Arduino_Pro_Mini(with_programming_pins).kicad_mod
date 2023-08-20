@@ -52,7 +52,7 @@
   (pad "31" thru_hole rect (at 1.18 -2.54) (size 1.8 2.3) (drill 1 (offset 0 -0.24)) (layers *.Cu *.Mask) (tstamp 32f7f993-844d-4647-82bc-7e4c69fc685b))
   (pad "32" thru_hole oval (at 12.7 8.89) (size 2.4 1.82) (drill 1.016 (offset -0.28 -0.01)) (layers *.Cu *.Mask) (tstamp e09a27a3-bdcb-4a52-8356-44f3d9cdc103))
   (pad "33" thru_hole oval (at 12.7 11.43) (size 2.4 1.8) (drill 1.016 (offset -0.28 0)) (layers *.Cu *.Mask) (tstamp 42ba407d-a036-422b-9b59-0018a6ff74da))
-  (model "${KICAD7_3RD_PARTY}/3dmodels/com_github_RoboticGen_RGen-KiCAD-Libraries/RG_Development_Boards.3dshapes/Arduino_ProMini.wrl"
+  (model "${KICAD7_3RD_PARTY}/3dmodels/com_github_Sajitha-Aldeniya_KiCad-Simple-Libraries/SL_Development_Boards.3dshapes/Arduino_ProMini.wrl"
     (offset (xyz 0 0 11))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

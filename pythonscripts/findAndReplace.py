@@ -1,7 +1,17 @@
 import os
 
-findWord = "RG_"
-replaceWord = "SL_"
+# findWord = "RG_"
+# replaceWord = "SL_"
+# fileExtention = ".kicad_sym"
+# fileDirectory = "symbols/"
+
+
+
+findWord = "com_github_RoboticGen_RGen-KiCAD-Libraries/RG_"
+replaceWord = "com_github_Sajitha-Aldeniya_KiCad-Simple-Libraries/SL_"
+fileExtention = ".kicad_mod"
+fileDirectory = "footprints/"
+
 
 
 def rename_cb_to_rg(directory):
@@ -16,7 +26,7 @@ def rename_cb_to_rg(directory):
         # Check if the item is a file
         if os.path.isfile(item_path):
             # Check if the file is a .kicad_sym file
-            if item.endswith(".kicad_sym"):
+            if item.endswith(fileExtention):
                 # Read the file contents into a string
                 with open(item_path, "r") as file:
                     file_contents = file.read()
@@ -33,5 +43,5 @@ def rename_cb_to_rg(directory):
             # Recursively call the function for subdirectories
             rename_cb_to_rg(item_path)
 
-symbols_directory = "symbols/"
-rename_cb_to_rg(symbols_directory)
+#fileDirectory = "symbols/"
+rename_cb_to_rg(fileDirectory)

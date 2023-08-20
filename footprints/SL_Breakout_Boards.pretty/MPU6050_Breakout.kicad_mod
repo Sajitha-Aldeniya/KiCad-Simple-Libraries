@@ -29,7 +29,7 @@
   (pad "6" thru_hole oval (at 12.7 0) (size 1.8 2.4) (drill 1) (layers *.Cu *.Mask) (tstamp 8e58560e-ece1-4ebd-9a6f-54332c91b4f3))
   (pad "7" thru_hole oval (at 15.24 0) (size 1.8 2.4) (drill 1) (layers *.Cu *.Mask) (tstamp df1c3c23-dea7-49de-b443-e040c431b215))
   (pad "8" thru_hole oval (at 17.78 0) (size 1.8 2.4) (drill 1) (layers *.Cu *.Mask) (tstamp 14437240-0371-4142-926d-c25785e80cbb))
-  (model "${KICAD7_3RD_PARTY}/3dmodels/com_github_RoboticGen_RGen-KiCAD-Libraries/RG_Breakout_Boards.3dshapes/MPU6050.wrl"
+  (model "${KICAD7_3RD_PARTY}/3dmodels/com_github_Sajitha-Aldeniya_KiCad-Simple-Libraries/SL_Breakout_Boards.3dshapes/MPU6050.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

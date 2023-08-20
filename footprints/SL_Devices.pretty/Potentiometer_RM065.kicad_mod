@@ -34,7 +34,7 @@
   (pad "1" thru_hole rect (at -2.53 -2.03) (size 2 2) (drill 1) (layers *.Cu *.Mask) (tstamp e02ef194-98aa-44c2-8b22-88f98c8d0607))
   (pad "2" thru_hole circle (at -0.03 2.97) (size 2.2 2.2) (drill 1) (layers *.Cu *.Mask) (tstamp 1e5f9687-68da-4fa7-a5ab-d249bf5e99b3))
   (pad "3" thru_hole circle (at 2.47 -2.03) (size 2.2 2.2) (drill 1) (layers *.Cu *.Mask) (tstamp dfbb3a32-5fc1-4833-adae-2237b4b9b7be))
-  (model "${KICAD7_3RD_PARTY}/3dmodels/com_github_RoboticGen_RGen-KiCAD-Libraries/RG_Devices.3dshapes/RM065_Potentiometer.wrl"
+  (model "${KICAD7_3RD_PARTY}/3dmodels/com_github_Sajitha-Aldeniya_KiCad-Simple-Libraries/SL_Devices.3dshapes/RM065_Potentiometer.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -19,7 +19,7 @@
   (fp_line (start -9 0) (end 9 0) (layer "F.Fab") (width 0.1) (tstamp 80a848ef-783c-413c-b1e1-1a98694b7204))
   (pad "1" thru_hole circle (at -11 0) (size 1.9 1.9) (drill 0.8) (layers *.Cu *.Mask) (tstamp 0d69573d-2d97-4284-987a-4014cae7c1b6))
   (pad "2" thru_hole circle (at 11 0) (size 1.9 1.9) (drill 0.8) (layers *.Cu *.Mask) (tstamp 50824d83-7e20-44ce-bd03-aa8d3e6f57a0))
-  (model "${KICAD7_3RD_PARTY}/3dmodels/com_github_RoboticGen_RGen-KiCAD-Libraries/RG_Jumpers.3dshapes/JUP_P22mm.wrl"
+  (model "${KICAD7_3RD_PARTY}/3dmodels/com_github_Sajitha-Aldeniya_KiCad-Simple-Libraries/SL_Jumpers.3dshapes/JUP_P22mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

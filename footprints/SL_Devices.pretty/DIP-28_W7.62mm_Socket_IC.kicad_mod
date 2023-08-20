@@ -51,7 +51,7 @@
   (pad "26" thru_hole oval (at 3.81 5.08 270) (size 1.8 2.5) (drill 0.8) (layers *.Cu *.Mask) (tstamp 446fa4ac-627d-4c3c-aee9-7e9d4c22e4da))
   (pad "27" thru_hole oval (at 3.81 2.54 270) (size 1.8 2.5) (drill 0.8) (layers *.Cu *.Mask) (tstamp 446fa4ac-627d-4c3c-aee9-7e9d4c22e4da))
   (pad "28" thru_hole oval (at 3.81 0 270) (size 1.8 2.5) (drill 0.8) (layers *.Cu *.Mask) (tstamp 446fa4ac-627d-4c3c-aee9-7e9d4c22e4da))
-  (model "${KICAD7_3RD_PARTY}/3dmodels/com_github_RoboticGen_RGen-KiCAD-Libraries/RG_Packages.3dshapes/DIP-28_With_Socket.wrl"
+  (model "${KICAD7_3RD_PARTY}/3dmodels/com_github_Sajitha-Aldeniya_KiCad-Simple-Libraries/SL_Packages.3dshapes/DIP-28_With_Socket.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

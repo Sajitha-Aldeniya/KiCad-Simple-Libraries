@@ -32,7 +32,7 @@
   (pad "4" thru_hole oval (at 4 -5.08) (size 1.4 2.4) (drill 0.762) (layers *.Cu *.Mask) (tstamp 01eee072-ad6c-488a-8536-64543b7e4db4))
   (pad "5" thru_hole oval (at 2 -5.08) (size 1.4 2.4) (drill 0.762) (layers *.Cu *.Mask) (tstamp 5854e3c1-e63c-433d-b6b1-17d9b88ca87f))
   (pad "6" thru_hole oval (at 0 -5.08) (size 1.4 2.4) (drill 0.762) (layers *.Cu *.Mask) (tstamp 7c1347db-1cbf-41a5-bb85-0441e5d015ab))
-  (model "${KICAD7_3RD_PARTY}/3dmodels/com_github_RoboticGen_RGen-KiCAD-Libraries/RG_Devices.3dshapes/Interlocking_Switch_6-pin_7x7mm.wrl"
+  (model "${KICAD7_3RD_PARTY}/3dmodels/com_github_Sajitha-Aldeniya_KiCad-Simple-Libraries/SL_Devices.3dshapes/Interlocking_Switch_6-pin_7x7mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

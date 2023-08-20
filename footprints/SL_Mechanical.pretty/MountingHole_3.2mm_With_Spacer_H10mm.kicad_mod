@@ -23,7 +23,7 @@
   (fp_line (start 0 3.048) (end 2.54 1.524) (layer "F.Fab") (width 0.2) (tstamp 93566518-7a16-46c9-a605-fe792ffd4b03))
   (fp_circle (center 0 0) (end 1.436841 0) (layer "F.Fab") (width 0.2) (fill none) (tstamp c3287a07-eaf3-456f-9343-169228f0d434))
   (pad "1" thru_hole circle (at 0 0) (size 6 6) (drill 3.2) (layers *.Cu *.Mask) (tstamp e9fd9f1e-4d58-45a0-8b2d-51ac73a8cf6e))
-  (model "${KICAD7_3RD_PARTY}/3dmodels/com_github_RoboticGen_RGen-KiCAD-Libraries/RG_Mechanical.3dshapes/Spacer_M3_H10mm_sc.wrl"
+  (model "${KICAD7_3RD_PARTY}/3dmodels/com_github_Sajitha-Aldeniya_KiCad-Simple-Libraries/SL_Mechanical.3dshapes/Spacer_M3_H10mm_sc.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

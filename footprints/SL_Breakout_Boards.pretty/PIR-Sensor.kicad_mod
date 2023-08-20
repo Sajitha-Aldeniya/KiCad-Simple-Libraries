@@ -27,7 +27,7 @@
   (pad "1" thru_hole rect (at 0 0) (size 1.8 2.4) (drill 1) (layers *.Cu *.Mask) (tstamp 75f2082b-4d7b-452b-8a4f-d706b382cdc7))
   (pad "2" thru_hole oval (at 2.54 0) (size 1.8 2.4) (drill 1) (layers *.Cu *.Mask) (tstamp 6c7215dc-2dbc-4951-bfca-623bac82e99f))
   (pad "3" thru_hole oval (at 5.08 0) (size 1.8 2.4) (drill 1) (layers *.Cu *.Mask) (tstamp 71d48a52-b8b3-40ee-8443-1f8ed57774db))
-  (model "${KICAD7_3RD_PARTY}/3dmodels/com_github_RoboticGen_RGen-KiCAD-Libraries/RG_Breakout_Boards.3dshapes/PIR.wrl"
+  (model "${KICAD7_3RD_PARTY}/3dmodels/com_github_Sajitha-Aldeniya_KiCad-Simple-Libraries/SL_Breakout_Boards.3dshapes/PIR.wrl"
     (offset (xyz 2.5 -10 1.2))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 180))

@@ -48,7 +48,7 @@
   (pad "14" thru_hole oval (at 33.02 0) (size 1.8 2.6) (drill 1) (layers *.Cu *.Mask) (tstamp fc0a4225-db46-4d48-8163-d522602d57cd))
   (pad "15" thru_hole oval (at 35.56 0) (size 1.8 2.6) (drill 1) (layers *.Cu *.Mask) (tstamp 2bef89de-08c7-4a13-9d85-67948d429ca0))
   (pad "16" thru_hole oval (at 38.1 0) (size 1.8 2.6) (drill 1) (layers *.Cu *.Mask) (tstamp 6ca3c38c-4e71-4202-b6c1-1b25f04a27ae))
-  (model "${KICAD7_3RD_PARTY}/3dmodels/com_github_RoboticGen_RGen-KiCAD-Libraries/RG_Connectors.3dshapes/PinSocket_P2.54mm_1x16.wrl"
+  (model "${KICAD7_3RD_PARTY}/3dmodels/com_github_Sajitha-Aldeniya_KiCad-Simple-Libraries/SL_Connectors.3dshapes/PinSocket_P2.54mm_1x16.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 -90))

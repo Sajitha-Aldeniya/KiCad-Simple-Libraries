@@ -26,7 +26,7 @@
   (pad "5" thru_hole oval (at 0 10.16) (size 2.8 1.8) (drill 1) (layers *.Cu *.Mask) (tstamp 9e61bbaf-f621-467c-9166-866ad4847cc5))
   (pad "6" thru_hole oval (at 0 12.7) (size 2.8 1.8) (drill 1) (layers *.Cu *.Mask) (tstamp 1e5fa91e-e18d-4c90-9dab-9319ab7e9aa4))
   (pad "7" thru_hole oval (at 0 15.24) (size 2.8 1.8) (drill 1) (layers *.Cu *.Mask) (tstamp b22c435e-5b21-49c0-b688-1445ada5b77d))
-  (model "${KICAD7_3RD_PARTY}/3dmodels/com_github_RoboticGen_RGen-KiCAD-Libraries/RG_Connectors.3dshapes/PinHeader_P2.54mm_1x07.wrl"
+  (model "${KICAD7_3RD_PARTY}/3dmodels/com_github_Sajitha-Aldeniya_KiCad-Simple-Libraries/SL_Connectors.3dshapes/PinHeader_P2.54mm_1x07.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

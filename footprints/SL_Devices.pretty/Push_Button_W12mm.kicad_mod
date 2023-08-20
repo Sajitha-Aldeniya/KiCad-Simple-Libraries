@@ -30,7 +30,7 @@
   (pad "1" thru_hole oval (at -6.25 -2.5) (size 3 2.5) (drill 1.2) (layers *.Cu *.Mask) (tstamp 763243bf-fc29-4865-b3cf-5a290ad7ad64))
   (pad "2" thru_hole oval (at -6.25 2.5) (size 3 2.5) (drill 1.2) (layers *.Cu *.Mask) (tstamp 8e2d3e1e-7add-4d72-95bc-b404e5681f36))
   (pad "2" thru_hole oval (at 6.25 2.5) (size 3 2.5) (drill 1.2) (layers *.Cu *.Mask) (tstamp b445929d-c40b-4bea-82c8-808ecd3e6946))
-  (model "${KICAD7_3RD_PARTY}/3dmodels/com_github_RoboticGen_RGen-KiCAD-Libraries/RG_Devices.3dshapes/Push_Button_W12mm.wrl"
+  (model "${KICAD7_3RD_PARTY}/3dmodels/com_github_Sajitha-Aldeniya_KiCad-Simple-Libraries/SL_Devices.3dshapes/Push_Button_W12mm.wrl"
     (offset (xyz 0 0 0.5))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 90))

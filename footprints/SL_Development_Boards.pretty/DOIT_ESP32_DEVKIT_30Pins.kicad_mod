@@ -284,7 +284,7 @@
   (pad "28" thru_hole oval (at 25.4 5.08 270) (size 1.8 2.4) (drill 1) (layers *.Cu *.Mask) (tstamp 8a8ed353-c8e0-485a-9070-c8deac2cc33e))
   (pad "29" thru_hole oval (at 25.4 2.54 270) (size 1.8 2.4) (drill 1) (layers *.Cu *.Mask) (tstamp a97eab6e-523b-4d54-ac94-339acc95cb84))
   (pad "30" thru_hole oval (at 25.4 0 270) (size 1.8 2.4) (drill 1) (layers *.Cu *.Mask) (tstamp 3c14836e-d1e0-4317-b386-5748f4f0ad4c))
-  (model "${KICAD7_3RD_PARTY}/3dmodels/com_github_RoboticGen_RGen-KiCAD-Libraries/RG_Development_Boards.3dshapes/DOIT_ESP32_devkit_V1.wrl"
+  (model "${KICAD7_3RD_PARTY}/3dmodels/com_github_Sajitha-Aldeniya_KiCad-Simple-Libraries/SL_Development_Boards.3dshapes/DOIT_ESP32_devkit_V1.wrl"
     (offset (xyz 0 0 11.5))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

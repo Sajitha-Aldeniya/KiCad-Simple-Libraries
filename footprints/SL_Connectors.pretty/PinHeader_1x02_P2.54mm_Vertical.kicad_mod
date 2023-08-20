@@ -21,7 +21,7 @@
   (fp_rect (start -1.778 -1.27) (end 1.778 3.81) (layer "F.Fab") (width 0.1) (fill none) (tstamp 6d37b8e5-fbfb-4c23-b9e0-d1eb2dfc0fec))
   (pad "1" thru_hole rect (at 0 0) (size 2.8 1.8) (drill 1) (layers *.Cu *.Mask) (tstamp 681d77e5-aa7b-439d-be8a-8ecc22ab57ba))
   (pad "2" thru_hole oval (at 0 2.54) (size 2.8 1.8) (drill 1) (layers *.Cu *.Mask) (tstamp 84326d1e-3b63-455a-984c-90d1a3fa7858))
-  (model "${KICAD7_3RD_PARTY}/3dmodels/com_github_RoboticGen_RGen-KiCAD-Libraries/RG_Connectors.3dshapes/PinHeader_P2.54mm_1x02.wrl"
+  (model "${KICAD7_3RD_PARTY}/3dmodels/com_github_Sajitha-Aldeniya_KiCad-Simple-Libraries/SL_Connectors.3dshapes/PinHeader_P2.54mm_1x02.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

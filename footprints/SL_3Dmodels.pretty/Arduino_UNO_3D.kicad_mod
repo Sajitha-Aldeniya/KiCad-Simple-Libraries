@@ -746,12 +746,12 @@
   (fp_line (start 14.058809 -51.85792) (end 14.021511 -51.816528) (layer "Eco1.User") (width 0.1) (tstamp ff796130-4fd2-4dc2-951b-8aed8bf773e7))
   (fp_line (start 64.564378 -36.25965) (end 64.539831 -36.209631) (layer "Eco1.User") (width 0.1) (tstamp ff7b3487-79ce-4f40-b562-68fe5419cf62))
   (fp_line (start 14.435935 -49.365158) (end 14.484767 -49.338327) (layer "Eco1.User") (width 0.1) (tstamp ffca809e-4da4-4706-9448-40e500ec8cb7))
-  (model "${KICAD7_3RD_PARTY}/3dmodels/com_github_RoboticGen_RGen-KiCAD-Libraries/RG_Development_Boards.3dshapes/ArduinoUNO_3D.wrl"
+  (model "${KICAD7_3RD_PARTY}/3dmodels/com_github_Sajitha-Aldeniya_KiCad-Simple-Libraries/SL_Development_Boards.3dshapes/ArduinoUNO_3D.wrl"
     (offset (xyz 0 0 -13.5))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
-    (model "${KICAD8_3RD_PARTY}/3dmodels/com_github_RoboticGen_RGen-KiCAD-Libraries/RG_Development_Boards.3dshapes/ArduinoUNO_3D.wrl"
+    (model "${KICAD8_3RD_PARTY}/3dmodels/com_github_Sajitha-Aldeniya_KiCad-Simple-Libraries/SL_Development_Boards.3dshapes/ArduinoUNO_3D.wrl"
     (offset (xyz 0 0 -13.5))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

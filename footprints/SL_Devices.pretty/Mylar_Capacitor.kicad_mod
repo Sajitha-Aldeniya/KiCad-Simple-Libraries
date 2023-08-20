@@ -19,7 +19,7 @@
   (fp_rect (start -4 -1.75) (end 4 1.75) (layer "F.Fab") (width 0.1) (fill none) (tstamp 165bdd32-0f0c-468f-9ae7-bdaff833c513))
   (pad "1" thru_hole oval (at -2.5 0) (size 2.4 1.8) (drill 0.8) (layers *.Cu *.Mask) (tstamp 86ae7426-5ed6-4112-8857-d563afd2a0c6))
   (pad "2" thru_hole oval (at 2.5 0) (size 2.4 1.8) (drill 0.8) (layers *.Cu *.Mask) (tstamp a1b2e031-49b7-4f98-8954-12ec3139d3db))
-  (model "${KICAD7_3RD_PARTY}/3dmodels/com_github_RoboticGen_RGen-KiCAD-Libraries/RG_Devices.3dshapes/Mylar_Dipped_Capacitor.wrl"
+  (model "${KICAD7_3RD_PARTY}/3dmodels/com_github_Sajitha-Aldeniya_KiCad-Simple-Libraries/SL_Devices.3dshapes/Mylar_Dipped_Capacitor.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
