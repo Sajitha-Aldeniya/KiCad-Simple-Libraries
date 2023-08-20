@@ -1,35 +1,34 @@
 {
     "$schema": "https://go.kicad.org/pcm/schemas/v1",
-    "name": "RGen KiCAD Libraries",
-    "description": "User-friendly library package for beginners by RoboticGen",
-    "description_full": "RoboticGen KiCAD library pack is a collection of common electronic components libraries for the free and open-source KiCAD PCB design software. The goal of Circuit Breaker KiCAD Libraries is to provide a user-friendly library package  for beginners.",
-    "identifier": "com.github.RoboticGen.RGen-KiCAD-Libraries",
+    "name": "Simple Libraries",
+    "description": "User-friendly library package for beginners",
+    "description_full": "Simple Libraries library pack is a collection of common electronic components libraries for the free and open-source KiCAD PCB design software. The goal of Circuit Breaker KiCAD Libraries is to provide a user-friendly library package  for beginners.",
+    "identifier": "com.github.Sajitha-Aldeniya.KiCad-Simple-Libraries",
     "type": "library",
     "author": {
-        "name": "RoboticGen",
+        "name": "Sajitha Aldeniya",
         "contact": {
-            "web": "https://roboticgen.co"
+            "web": "https://github.com/Sajitha-Aldeniya"
         }
     },
     "maintainer": {
-        "name": "RoboticGen",
+        "name": "Sajitha Aldeniya",
         "contact": {
-            "web": "https://roboticgen.co"
+            "web": "https://github.com/Sajitha-Aldeniya/KiCad-Simple-Libraries"
         }
     },
     "license": "CC-BY-SA-4.0",
     "resources": {
-        "GitHub": "https://github.com/RoboticGen/RGen_KiCAD_Libraries",
-        "YouTube": "https://www.youtube.com/@RoboticGen",
-        "Facebook": "https://www.facebook.com/RoboticGenInc"
+        "GitHub": "https://github.com/Sajitha-Aldeniya/KiCad-Simple-Libraries"
     },
     "versions": [
         {
-            "version": "0.4",
+            "version": "0.5",
             "status": "development",
             "kicad_version": "7",
+            "download_sha256": "fcff8020f497017db902540e9776949379cc96c30ff265f06ab83219735134ef",
             "download_size": 33405858,
-            "download_url": "https://github.com/RoboticGen/RGen_KiCAD_Libraries/releases/download/v0.4/RGen_KiCAD_V7_Libraries_v0.4.zip",
+            "download_url": "https://github.com/Sajitha-Aldeniya/KiCad-Simple-Libraries/releases/download/v0.5/kiCad_Simple_Libraries_v0.5.zip",
             "install_size": 168410755
         }
     ]

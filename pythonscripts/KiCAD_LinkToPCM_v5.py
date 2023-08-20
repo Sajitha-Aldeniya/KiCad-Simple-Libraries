@@ -7,7 +7,7 @@ from tkinter import filedialog
 
 print(" Code V 4.0 ")
 
-searchWord = "RG_"
+searchWord = "SL_"
 addWord = "PCM_"
 #outputDitectory = "RemovedBackup/output/"
 #outputDitectory = "../RemovedBackup/output/"
@@ -341,7 +341,7 @@ print("")
 
 UserInput = input("Do you want ReLink 3D Models to different KiCAD Version (y / n) = ")
 if(UserInput == 'y'):
-    print("Linking ")
+    print("Linking  Code Still Not Availabela")
 else:
     print("Discarded 3d Linking **************** ")
 print("")
