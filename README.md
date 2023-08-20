@@ -1,5 +1,5 @@
 
-![Version](https://img.shields.io/badge/COMPONESNTS-330-yellow?style=for-the-badge)   ![PLATFORM](https://img.shields.io/badge/PLATFORM-KiCAD-informational?style=for-the-badge&?link=https://www.kicad.org/=https://www.kicad.org/)   ![Version](https://img.shields.io/badge/Version-v0.5-success?style=for-the-badge) 
+![Version](https://img.shields.io/badge/COMPONESNTS-330-yellow?style=for-the-badge)   ![PLATFORM](https://img.shields.io/badge/PLATFORM-KiCAD-informational?style=for-the-badge&?link=https://www.kicad.org/=https://www.kicad.org/)   ![Version](https://img.shields.io/badge/Version-v0.5-success?style=for-the-badge) ![Downloads](https://img.shields.io/github/downloads/Sajitha-Aldeniya/KiCad-Simple-Libraries/total?style=for-the-badge&color=blueviolet) 
 # **KiCad Simple Libraries**
 
 ![Logo](./assets/logo.png)
@@ -33,39 +33,39 @@ The Simple Libraries KiCAD libraries can be installed through **📦 PCM(Pluging
 
 3. **Restart KiCAD** after installing the library package. 
 
-### Congratulations... You had successfully Installed the Circuit Breaker Robotics KiCAD library pack.
+### Congratulations... You had successfully Installed the Simple Libraries KiCAD library pack.
 
 
 To check whether all the symbol libraries are installed correctly, open the schematic editor and go to Add Symbole command. Then scroll through the list of libraries and see whether the following libraries are in the list. 
 
-- SL_3Dmodels
-- SL_Breakout_Boards
-- SL_Capacitors
-- SL_Connectors
-- SL_DevelopmentBoards
-- SL_Devices
-- SL_Jumpers_THT
-- SL_Mechanical
-- SL_PinHeaders
-- SL_Resistors
-- SL_Transistors
+- PCM_SL_3Dmodels
+- PCM_SL_Breakout_Boards
+- PCM_SL_Capacitors
+- PCM_SL_Connectors
+- PCM_SL_DevelopmentBoards
+- PCM_SL_Devices
+- PCM_SL_Jumpers_THT
+- PCM_SL_Mechanical
+- PCM_SL_PinHeaders
+- PCM_SL_Resistors
+- PCM_SL_Transistors
 
 
-![Symbole Chooser](./videos/RGSymboleLibs.png) 
+![Symbole Chooser](./assets/slSymbleList.png) 
 
 To check whether all the footprint libraries are installed correctly. Go to the Footprint Editor and find similar libraries to symbol library names in the Library panel as shown in the following image. 
 
-![Symbole Chooser](./videos/RGFootprintLib.png) 
+![Symbole Chooser](./assets/slFootprintList.png) 
 
-If all the libraries are installed correctly you can now browse through the components in the Simple Libraries KiCAD libraries. To learn about the components in the Simple Libraries KiCAD Library pack see what’s in this library section. 
+If all the libraries are installed correctly you can now browse through the components in the Simple Libraries. To learn about the components in the Simple Libraries KiCAD Library pack see what’s in this library section. 
 
 ##  **What’s in this library pack?**
 ---
 
 
-KiCAD Library pack was created to make the adding components to the project easy. This library pack contains value-based component libraries. For example, if you need to add a 10k resistor to the schematic just type 10k on the search bar and you will get a 10k resistor with the value on it.  Just like that, we can search for common capacitors and crystal oscillators based on their values. When selecting footprints to the symbol only the commonly used packages are filtered. Which makes the footprint selection process easy. If you cannot find the value or footprint you are looking for, You add the common component symbol from the default KiCAD libraries and change the value and the footprint accordingly. 
+Simple Library pack was created to make the adding components to the project easy. This library pack contains value-based component libraries. For example, if you need to add a 10k resistor to the schematic just type 10k on the search bar and you will get a 10k resistor with the value on it.  Just like that, we can search for common capacitors and crystal oscillators based on their values. When selecting footprints to the symbol only the commonly used packages are filtered. Which makes the footprint selection process easy. If you cannot find the value or footprint you are looking for, You can add the common component symbol from the default KiCAD libraries and change the value and the footprint accordingly. 
 
-![Resistor Symbole](./videos/ResistorSym.png) 
+![Resistor Symbole](./assets/resistorSym.png) 
 
 Simple Libraries contain symbols for some common connectors like Pinheaders male and female,  JST connectors, and Terminal Block connectors. This allows the user to search the name directly and get the symbol and the footprint need for the project. 
 
@@ -83,7 +83,7 @@ All the components in the Simple Libraries are listaed below.
    </thead>
    <tbody>
     <tr>
-     <td><strong>SL_Devices</strong></td>
+     <td><strong>PCM_SL_Devices</strong></td>
      <td>
      <ul>
        <li><p>Buzzer_5v</p></li>
@@ -97,19 +97,19 @@ All the components in the Simple Libraries are listaed below.
        <p>  </p>
     </tr>
     <tr>
-     <td><strong>SL_Capacitors</strong></td>
+     <td><strong>PCM_SL_Capacitors</strong></td>
      <td>
      <ul>
        <li><p>1uF to 4700uF</p></li>
     </tr>
     <tr>
-     <td><strong>SL_Resistors</strong></td>
+     <td><strong>PCM_SL_Resistors</strong></td>
      <td>
      <ul>
        <li><p>0 ohm to 10M</p></li>
     </tr>
     <tr>
-     <td><strong>SL_Transistors</strong></td>
+     <td><strong>PCM_SL_Transistors</strong></td>
      <td>
      <ul>
        <li><p>BC108</p></li>
@@ -118,14 +118,14 @@ All the components in the Simple Libraries are listaed below.
        <li><p>D400</p></li>
     </tr>
     <tr>
-     <td><strong>SL_Connectors</strong></td>
+     <td><strong>PCM_SL_Connectors</strong></td>
      <td>
      <ul>
        <li><p>JST Pin 02 -10</p></li>
        <li><p>Servo Ports pin 01 - 08</p></li>
     </tr>
     <tr>
-    <td><strong>SL_PinHeaders</strong></td>
+    <td><strong>PCM_SL_PinHeaders</strong></td>
      <td>
      <ul>
        <li><p>Pinheaders Male 1x1 - 1x20</p></li>
@@ -134,20 +134,20 @@ All the components in the Simple Libraries are listaed below.
        <li><p>Pinheaders Female 2x1 - 1x5</p></li>
     </tr>
     <tr>
-    <td><strong>SL_Screw_Terminal</strong></td>
+    <td><strong>PCM_SL_Screw_Terminal</strong></td>
      <td>
      <ul>
        <li><p>Screw Terminal P5.00mm Pin  2 - 9</p></li>
        <li><p>Screw Terminal P3.5mm Pin  2 - 9</p></li>
     </tr>
     <tr>
-    <td><strong>SL_Jumpers_THT</strong></td>
+    <td><strong>PCM_SL_Jumpers_THT</strong></td>
      <td>
      <ul>
        <li><p>Jumpers from 10mm - 120mm</p></li>
     </tr>
     <tr>
-     <td><strong>SL_DevelopmentBoards</strong></td>
+     <td><strong>PCM_SL_DevelopmentBoards</strong></td>
      <td>
      <ul>
        <li><p>Arduino Pro Mini</p></li>
@@ -159,7 +159,7 @@ All the components in the Simple Libraries are listaed below.
        <li><p>Blue Pill DevBoard</p></li>   
     </tr>
     <tr>
-         <td><strong>SL_Breakout_Boards</strong></td>
+         <td><strong>PCM_SL_Breakout_Boards</strong></td>
      <td>
      <ul>
        <li><p>A4988</p></li>
