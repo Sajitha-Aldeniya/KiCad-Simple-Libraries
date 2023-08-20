@@ -1,8 +1,13 @@
 
-![Version](https://img.shields.io/badge/COMPONESNTS-330-yellow?style=for-the-badge)   ![PLATFORM](https://img.shields.io/badge/PLATFORM-KiCAD-informational?style=for-the-badge&?link=https://www.kicad.org/=https://www.kicad.org/)   ![Version](https://img.shields.io/badge/Version-v0.5-success?style=for-the-badge) ![Downloads](https://img.shields.io/github/downloads/Sajitha-Aldeniya/KiCad-Simple-Libraries/total?style=for-the-badge&color=blueviolet) 
-# **KiCad Simple Libraries**
+
+![Version](https://img.shields.io/badge/COMPONESNTS-330-yellow?style=for-the-badge)   ![PLATFORM](https://img.shields.io/badge/PLATFORM-KiCAD-informational?style=for-the-badge&?link=https://www.kicad.org/=https://www.kicad.org/)   ![Version](https://img.shields.io/badge/Version-v0.5-success?style=for-the-badge) ![Downloads](https://img.shields.io/github/downloads/Sajitha-Aldeniya/KiCad-Simple-Libraries/total?style=for-the-badge&color=blueviolet)
+
 
 ![Logo](./assets/logo.png)
+
+# **KiCad Simple Libraries**
+
+
 
 ##  **Introduction**
 ---
