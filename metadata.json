@@ -2,7 +2,7 @@
     "$schema": "https://go.kicad.org/pcm/schemas/v1",
     "name": "Simple Libraries",
     "description": "User-friendly library package for beginners",
-    "description_full": "Simple Libraries library pack is a collection of common electronic components libraries for the free and open-source KiCAD PCB design software. The goal of Circuit Breaker KiCAD Libraries is to provide a user-friendly library package  for beginners.",
+    "description_full": "Simple Libraries library pack is a collection of common electronic components libraries for the free and open-source KiCAD PCB design software. The goal of Simple Libraries is to provide a user-friendly library package  for beginners. Components like resistors and capacitors are name base on the values like 10k,100ohm, 22uF… So users can directly search for the value and directly add it to their design. ",
     "identifier": "com.github.Sajitha-Aldeniya.KiCad-Simple-Libraries",
     "type": "library",
     "author": {
