@@ -26,10 +26,9 @@
             "version": "0.5",
             "status": "development",
             "kicad_version": "7",
-
-            "download_size": 33405858,
+            "download_size": 33031433,
             "download_url": "https://github.com/Sajitha-Aldeniya/KiCad-Simple-Libraries/releases/download/v0.5/KiCad_Simple_Libraries_v0.5.zip",
-            "install_size": 168410755
+            "install_size": 168504498
         }
     ]
 }

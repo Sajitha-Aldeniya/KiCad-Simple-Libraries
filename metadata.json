@@ -26,10 +26,10 @@
             "version": "0.5",
             "status": "development",
             "kicad_version": "7",
-            "download_sha256": "fcff8020f497017db902540e9776949379cc96c30ff265f06ab83219735134ef",
-            "download_size": 33405858,
+            "download_sha256": "ce506a2c13bd9284470fb76d9399f40f06e4d942ff38812c0f108234056602f8",
+            "download_size": 32873247,
             "download_url": "https://github.com/Sajitha-Aldeniya/KiCad-Simple-Libraries/releases/download/v0.5/KiCad_Simple_Libraries_v0.5.zip",
-            "install_size": 168410755
+            "install_size": 168306828
         }
     ]
 }
